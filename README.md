@@ -1,2 +1,2 @@
 # HTML-CSS
-Projeto para faculdade, 3 semestre
+Projeto para faculdade, desenvolvimento web, 3 semestre
