@@ -110,6 +110,20 @@ main {
 .itens:after {
     content: "★";
 }
+table {
+    margin: 20px 0 40px;
+}
+thead {
+    background: rgb(246, 55, 12);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+td, th {
+    border: 1px solid black;
+    padding: 9px 15px;
+    font-size: 20px;
+}
 .text-center{
     text-align: center;
 }
